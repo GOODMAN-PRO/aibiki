@@ -13,6 +13,14 @@
       "pages": 27,
       "cover": "chapters/ch01/cover.jpg",
       "published": "2026-08-14"
+    },
+    {
+      "n": 2,
+      "slug": "ch02",
+      "title": "MISPRINTS",
+      "pages": 27,
+      "cover": "chapters/ch02/cover.jpg",
+      "published": "2026-08-15"
     }
   ]
 }
