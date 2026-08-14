@@ -5,5 +5,14 @@
     "tagline": "On stage they finish each other's sentences. Off stage they can't start one.",
     "author": ""
   },
-  "chapters": []
+  "chapters": [
+    {
+      "n": 1,
+      "slug": "ch01",
+      "title": "CARRIED",
+      "pages": 27,
+      "cover": "chapters/ch01/cover.jpg",
+      "published": "2026-08-14"
+    }
+  ]
 }
