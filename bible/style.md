@@ -360,8 +360,11 @@ Payday slots: **ch11, ch22, ch31, ch44, ch52, ch54, ch55.**
 | 10 | **The ¥299 cup tower** (new) | ch1 | Six hours on one drink bar, two refills of shame. They stack the used cups on the booth-12 table. **The height of the tower is the length of the argument** — the reader learns to read the night off the cup count. Never mentioned in dialogue by anyone. | **ch55** (the tallest tower in the series: after everything, they still sat until five) | Exactly one panel at the end of every famires scene. Zero dialogue references, all 55 chapters. |
 | 11 | **The postcard wall** (new) | ch7 | Ōgaki mails service-area postcards to AIBIKI c/o the theater — five to eight words, never about the act, always about weather or a mountain or a vending machine. Suga tapes every one to the sound-booth wall without comment. The count only goes up. | **ch44** (Komako, wrung out, finally stands in the booth and counts them) | Background of every booth panel. **One** foreground panel in the entire series — spend it at ch44. |
 
-**GAG DISCIPLINE.** A chapter runs **at least one and at most three** of these. Running four is
-noise. A gag that appears must either advance a beat or cost somebody money; a gag that appears
+**GAG DISCIPLINE — "placed" vs "run."** A gag is PLACED when its object sits silently in frame
+(the daruma, the cup tower, the untied bow tie, the envelope in a drawer of a panel); placed
+gags are free and most should appear every chapter they plausibly could. A gag is RUN when it
+gets beats, dialogue, or a panel sequence built on it. A chapter RUNS **at least one and at
+most three**. Running four is noise. A gag that appears must either advance a beat or cost somebody money; a gag that appears
 for recognition alone is cut. None of the eleven is ever explained to the reader, in narration,
 caption, or dialogue — not once, not at the finale.
 
@@ -380,7 +383,10 @@ its confession system at the same time.
    **ONE EXCEPTION IN THE WHOLE SERIES — locked to CHAPTER 44.** Someone answers an aside they
    were not supposed to hear, and it is the loudest event in 55 chapters. Everywhere else:
    zero. A writer who spends it in any other chapter has broken the series.
-5. **Max 3 per chapter per character.**
+5. **Max 3 per chapter per character.** (The engine's "2-4 asides per page" is a page-texture
+   ceiling, never a quota; this per-character ration wins. In AIBIKI asides are the confession
+   system — scarcity is what makes them land. Held-silences and supporting-cast asides carry
+   the page texture.)
 6. Asides never state a feeling. See the rewrite rule (section 0).
 
 **THE GRAMMATICAL SPLIT (this is what makes them unswappable):**
