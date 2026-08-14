@@ -838,7 +838,9 @@ PANEL 7 [small]: Hamada going up the ladder for the next sheet.
 
 ## PAGE 27
 
-PANEL 1 [wide]: The shutter, the wet poster, Gaku alone in front of it with his back to us. Down the street, small, Komako at a vending machine with her back turned, out of earshot.
+PANEL 1 [wide]: The shutter, the wet poster, Gaku alone in front of it with his back to us. Down the street, small, Komako at a vending machine with her back turned, out of earshot. THE POSTER IS THE FUTTONDA-1 TOURNAMENT POSTER — letter its text exactly as the captions below give it. It is NOT a venue poster and carries no other brand name.
+- CAPTION: FUTTONDA-1 GRAND PRIX
+- CAPTION: ENTRIES OPEN 25 JULY · ¥2,000
 - (Hamada): "CORNER'S LIFTING ALREADY. THE WIND."
 - (Hamada): "IT'LL HOLD TILL JULY. MOSTLY."
 - SFX: BASA (fwump)
@@ -854,7 +856,7 @@ PANEL 4 [small]: The coffee changes hands. His thumb stops.
 - (Gaku): "I'M NOT DRINKING IT."
 - (Komako): "YOU NEVER DO. HOLD IT ANYWAY."
 
-PANEL 5 [small]: Both of them side on, facing the poster now, holding cans. Neither is pointing at anything.
+PANEL 5 [small]: Both of them side on, facing the poster now, holding cans. Neither is pointing at anything. The poster behind them reads FUTTONDA-1 GRAND PRIX — never any other name.
 - (Gaku): "TWENTY-FIFTH OF JULY. TWO THOUSAND YEN."
 - (Gaku): "THAT'S THE ENTRY FEE. EACH ACT."
 
@@ -862,7 +864,10 @@ PANEL 6 [small]: Komako, front, hair across the right eye, one highlight low in 
 - (Komako): "THREE."
 - SFX: SHAKI-SHAKI (crunch-crunch)
 
-PANEL 7 [big]: Nobody in frame. The bottom corner of the fresh poster has lifted away from the shutter in the wind, curling back on itself. Underneath the new paste, from last year's layer, one printed eye is visible and nothing else of the face it belongs to. It is looking straight out at the reader, and at this size, in this ink, it could be anybody's.
+PANEL 7 [big]: Nobody in frame. The fresh poster fills the panel — big bold hand-lettered FUTTONDA-1 GRAND PRIX across the top, the entry line under it, exactly as the captions give it and with NO other brand name anywhere. Its bottom corner has lifted away from the shutter in the wind, curling back on itself. Underneath the new paste, from last year's layer, one printed eye is visible and nothing else of the face it belongs to. It is looking straight out at the reader, and at this size, in this ink, it could be anybody's.
+- CAPTION: FUTTONDA-1 GRAND PRIX
+- CAPTION: ENTRIES OPEN 25 JULY · ¥2,000
+- CAPTION: OPEN TO ACTS THROUGH YEAR 10
 
 ---
 
